@@ -7,8 +7,8 @@ We are using a free version of heroku so please wait for a few seconds.
 + [Dashboard on Heroku](https://delos-dashboard.herokuapp.com/)
 ### Links
 + [API - Documentation](https://documenter.getpostman.com/view/1980477/UVXbseHv)
-+ [API - Repository](https://gitlab.com/juancgarcia/delos/-/tree/master)
-+ [Dashboard - Repository](https://gitlab.com/j.chavez/delos)
++ [API - Repository](https://github.com/jgarciajovel/delos/tree/master)
++ [Dashboard - Repository](https://github.com/jchavezjs/delos-app)
 ### Contact
 + [delos - Twitter](https://twitter.com/delos_on)
 + [Email](jc.garciajovel@gmail.com)
